@@ -1,2 +1,3 @@
 # HELLO-WORLD
-这第一个资源库
+这是第一个资源库
+this is frist database!
